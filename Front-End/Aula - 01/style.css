@@ -17,3 +17,13 @@ body {
     gap: 12;
     background-color: var(--color-bg);
 }
+cor{
+    background-color: var(--color-bg)
+}
+
+.botao-Verde{
+    background-color: green;
+}
+.botao-Vermelho{
+    background-color: red;
+}
